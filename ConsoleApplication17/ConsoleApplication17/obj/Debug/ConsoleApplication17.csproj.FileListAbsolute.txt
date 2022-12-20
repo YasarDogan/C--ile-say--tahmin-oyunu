@@ -1,0 +1,14 @@
+D:\ornekler\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe.config
+D:\ornekler\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe
+D:\ornekler\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.pdb
+D:\ornekler\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.csprojResolveAssemblyReference.cache
+D:\ornekler\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.exe
+D:\ornekler\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.pdb
+C:\Users\Yasar\Desktop\ornekler\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe.config
+C:\Users\Yasar\Desktop\ornekler\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe
+C:\Users\Yasar\Desktop\ornekler\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.pdb
+C:\Users\Yasar\Desktop\ornekler\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.csproj.AssemblyReference.cache
+C:\Users\Yasar\Desktop\ornekler\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yasar\Desktop\ornekler\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.csproj.CoreCompileInputs.cache
+C:\Users\Yasar\Desktop\ornekler\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.exe
+C:\Users\Yasar\Desktop\ornekler\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.pdb
